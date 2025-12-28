@@ -1,0 +1,23 @@
+# Virtual environments
+grader_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API tokens
+token.pickle
+token.json
+credentials.json
+
+# Outputs
+outputs/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
