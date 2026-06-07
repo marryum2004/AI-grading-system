@@ -14,23 +14,23 @@ An intelligent grading system that integrates with Google Classroom API to autom
 ## dashboard:
 <img width="926" height="478" alt="1" src="https://github.com/user-attachments/assets/eb50d1a4-12db-4d28-b327-27fec3942197" />
 
-- connecting with Google
+## connecting with Google
 
 <img width="923" height="477" alt="2" src="https://github.com/user-attachments/assets/703b8d2c-f746-4b0d-ae13-8d6ad756636f" />
 
-- authentication completed
-- 
+## authentication completed
+ 
 <img width="485" height="185" alt="3" src="https://github.com/user-attachments/assets/0e54e896-836f-451b-96ba-176885e467cd" />
 
-- select classes to grade
-- 
+## select classes to grade
+
 <img width="820" height="421" alt="4" src="https://github.com/user-attachments/assets/78d308a0-fde3-4cb4-bcf0-85bebb9bb59d" />
 
-- grading completed
-- 
+## grading completed
+
 <img width="827" height="409" alt="5" src="https://github.com/user-attachments/assets/3f8bce30-297a-4ade-9bcb-70a18149f169" />
 
-- graphs
+## graphs
 - 
 <img width="817" height="373" alt="6" src="https://github.com/user-attachments/assets/7b832204-761c-46f5-ac6c-74e30a54a9f1" />
 
@@ -50,7 +50,7 @@ An intelligent grading system that integrates with Google Classroom API to autom
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-grading-agent.git
+git clone https://github.com/marryum2004/ai-grading-agent.git
 cd ai-grading-agent
 
 # Install dependencies
