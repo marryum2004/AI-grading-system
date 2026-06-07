@@ -10,8 +10,8 @@ An intelligent grading system that integrates with Google Classroom API to autom
 - **Interactive Analytics** – Visualizes student performance with pie charts, histograms, and comparative graphs
 - **Comprehensive Reports** – Generates multi-sheet Excel reports with student and assignment summaries
 - **Fast & Optimized** – Implements caching and lazy loading for 90% faster grading
-- dashboard:
-- 
+  
+## dashboard:
 <img width="926" height="478" alt="1" src="https://github.com/user-attachments/assets/eb50d1a4-12db-4d28-b327-27fec3942197" />
 
 - connecting with Google
